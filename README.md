@@ -4,5 +4,5 @@ Physical Distancing Crowd Detection use opencv and YOLOv3
 ## Installation
   <ul>
   <li>Install opencv</li>
-  <li>Download YOLOv3 Pretrained weight file (237 MB) here https://pjreddie.com/darknet/yolo/</li>
+  <li>Download YOLOv3 Pretrained weight file (237 MB) here https://pjreddie.com/darknet/yolo/ and put file in yolo-coco/</li>
   </ul
